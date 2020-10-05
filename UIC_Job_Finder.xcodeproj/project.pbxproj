@@ -11,6 +11,7 @@
 		5E10AFB82528B9AE003DF0DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E10AFB72528B9AE003DF0DF /* ContentView.swift */; };
 		5E10AFBA2528B9B1003DF0DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E10AFB92528B9B1003DF0DF /* Assets.xcassets */; };
 		5E10AFBD2528B9B1003DF0DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E10AFBC2528B9B1003DF0DF /* Preview Assets.xcassets */; };
+		5EE39BA6252A369100185A0C /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5EE39BA5252A369100185A0C /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		5E10AFB92528B9B1003DF0DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E10AFBC2528B9B1003DF0DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5E10AFBE2528B9B1003DF0DF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5EE39BA5252A369100185A0C /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				5E10AFB52528B9AE003DF0DF /* UIC_Job_FinderApp.swift */,
 				5E10AFB72528B9AE003DF0DF /* ContentView.swift */,
+				5EE39BA5252A369100185A0C /* DetailView.swift */,
 				5E10AFB92528B9B1003DF0DF /* Assets.xcassets */,
 				5E10AFBE2528B9B1003DF0DF /* Info.plist */,
 				5E10AFBB2528B9B1003DF0DF /* Preview Content */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5E10AFB82528B9AE003DF0DF /* ContentView.swift in Sources */,
+				5EE39BA6252A369100185A0C /* DetailView.swift in Sources */,
 				5E10AFB62528B9AE003DF0DF /* UIC_Job_FinderApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
